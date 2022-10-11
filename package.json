@@ -1,0 +1,20 @@
+{
+  "name": "elasticsearch-implementation-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Elasticsearch", "Node.js"],
+  "author": {
+    "email": "skerdi.caushaj@gmail.com",
+    "name": "Skerdi Caushaj",
+    "url": "https://github.com/skerdicaushaj/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.4.0"
+  }
+}
